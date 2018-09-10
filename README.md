@@ -1,6 +1,6 @@
 # MongoDB Atlas on Azure 
 
-The intend of this repository is to demonstrate the following:
+The intend of this repository is to demonstrate how MongoDB can be deployed on Azure by taking you through the following step:
 
 
 Step 1: Deploy The community version of MongoDB inside a VM
@@ -25,7 +25,7 @@ The full workflow looks like this:
 
 ## [Step 2: Create a MongoDB cluster on Azure](/step2/README.md)
 
-## Step 3: Live Migration to MongoDB Atlas
+## [Step 3: Live Migration to MongoDB Atlas](/step3/README.md)
 
 
 

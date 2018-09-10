@@ -1,7 +1,7 @@
 # Deploy MongoDB 
 
 Here, we will assume a deployment of the OSS version of MongoDB on Ubuntu. 
-After connection to your VM, follow the instruction below to install MongoDB.
+After connecting to your VM, follow the instruction below to install MongoDB.
 
 * Import the public key used by the package management system.
 
@@ -47,9 +47,13 @@ The complete instruction can be found [HERE](https://docs.mongodb.com/v3.6/tutor
 
 * Load the sample data
 
-From inside the VM, load the [sample data](/data/insurance-customers.json) into mongodb by running th eimport command:
+From inside the VM, load the [sample data](/data/insurance-customers.json) into mongodb by running the [import](https://docs.mongodb.com/manual/reference/program/mongoimport/) tool:
 
 
+* Start the Web App
 
+The test Web app is a Spring Boot app that can be ran from the command line using the following command: 
+
+From inside the VM, follow the [instructions](https://github.com/schabiyo/EmpBook) to run the Web app locally. 
 
 For other plaform, please see installation instruction [here](https://docs.mongodb.com/v3.6/administration/install-community/) 

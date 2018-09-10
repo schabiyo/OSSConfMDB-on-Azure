@@ -16,7 +16,8 @@ Here, we will deploy a 3 nodes cluster on Azure using [MongoDB atlas](https://ww
 
  ![Name](/step2/imgs/name.png "Name")
 
-* Trigger the deployment
+
+Trigger the deployment by clicking on the Create Cluster button.
 
 The process take aboiut 2-3 minutes to complete.
 
