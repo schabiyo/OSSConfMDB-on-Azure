@@ -12,7 +12,7 @@ Step 3: Migrate the data to Atlas
 
 The full workflow looks like this:
 
-![Boostrap](/imgs/verview.PNG "Overview")
+![Overview](/imgs/overview.png "Overview")
 
 
 ## Pre-requisite
