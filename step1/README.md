@@ -47,10 +47,9 @@ The complete instruction can be found [HERE](https://docs.mongodb.com/v3.6/tutor
 
 * Load the sample data
 
-From inside the VM, run the following command:
+From inside the VM, load the [sample data](/data/insurance-customers.json) into mongodb by running th eimport command:
 
-```
-mongoimport   
-```
+
+
 
 For other plaform, please see installation instruction [here](https://docs.mongodb.com/v3.6/administration/install-community/) 

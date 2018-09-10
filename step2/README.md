@@ -1,12 +1,8 @@
 # Create a MongoDB cluster on Azure using Atlas 
 
-Here, we will deploy a 3 nodes cluster on Azure using [MongoDB atlas] (https://www.mongodb.com/cloud/atlas). 
+Here, we will deploy a 3 nodes cluster on Azure using [MongoDB atlas](https://www.mongodb.com/cloud/atlas) 
 
-* Login to Atlas 
-
-```
-[https://cloud.mongodb.com](https://cloud.mongodb.com)
-```
+* [Login](https://cloud.mongodb.com) to Atlas 
 
 * Pick your region
 
@@ -20,5 +16,8 @@ Here, we will deploy a 3 nodes cluster on Azure using [MongoDB atlas] (https://w
 
  ![Name](/step2/imgs/name.png "Name")
 
+* Trigger the deployment
+
+The process take aboiut 2-3 minutes to complete.
 
 
