@@ -10,15 +10,15 @@ Here, we will deploy a 3 nodes cluster on Azure using [MongoDB atlas] (https://w
 
 * Pick your region
 
- ![Region](/imgs/region.png "Region")
+ ![Region](/step2/imgs/region.png "Region")
 
 * Pick your cluster tier
 
- ![Tier](/imgs/tier.png "Tier")
+ ![Tier](/step2/imgs/tier.png "Tier")
 
 * Specifiy the name of your cluster
 
- ![Name](/imgs/name.png "Name")
+ ![Name](/step2/imgs/name.png "Name")
 
 
 
