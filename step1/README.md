@@ -26,7 +26,7 @@ The full workflow looks like this:
 Here, we will assume a deployment of the OSS version of MongoDB on Ubuntu. 
 After connection to your VM, follow the instruction below to install MongoDB.
 
-* link:step1/README.md[deploy MongoDB]
+* link:step1/README.adoc[deploy MongoDB]
 
 
 
