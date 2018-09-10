@@ -1,13 +1,13 @@
 # MongoDB Atlas on Azure 
 
-The intend of this repository is to demonstrate the followin:
+The intend of this repository is to demonstrate the following:
 
 
-Step 1: Deploy MongoDB 
+Step 1: Deploy The community version of MongoDB inside a VM
 
 Step 2: Create a Cluster on Azure using MongoDB Atlas
 
-Step 3: Migrate the data to Atlas
+Step 3: Migrate the data from the VM to MongoDB Atlas
 
 
 The full workflow looks like this:
@@ -17,20 +17,13 @@ The full workflow looks like this:
 
 ## Pre-requisite
 
-- Ubuntu VM
+- VM with ubuntu installed
 - MongoDB Atlas account 
 
 
-## Deploy MongoDB 
+## [Step 1: Deploy MongoDB](/step1/README.md) 
 
-Here, we will assume a deployment of the OSS version of MongoDB on Ubuntu. 
-After connection to your VM, follow the instruction below to install MongoDB.
-
-![]link:step1/README.md[deploy MongoDB]
-
-
-## Step 2: Create a MongoDB cluster on Azure
-
+## [Step 2: Create a MongoDB cluster on Azure](/step2/README.md)
 
 ## Step 3: Live Migration to MongoDB Atlas
 
