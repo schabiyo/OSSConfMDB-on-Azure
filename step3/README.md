@@ -6,6 +6,12 @@ Here, we will automatically migrate the data from inside the VM to MongoDB atlas
 
  ![Start](/step3/imgs/start.png "Start")
 
+
+Then click on "Im ready to Migrate" as shown below:
+
+![Ready](/step3/imgs/ready.png "Ready")
+
+
 * Enter the information of the MongoDB running on the VM
 
  ![Config](/step3/imgs/config.png "Config")
