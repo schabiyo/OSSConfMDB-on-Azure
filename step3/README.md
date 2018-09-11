@@ -16,11 +16,7 @@ Then click on "Im ready to Migrate" as shown below:
 
  ![Config](/step3/imgs/config.png "Config")
 
-* Start the migration
 
- ![Migrate](/step3/imgs/migrate.png "Migrate")
-
-
-the process take aboiut 1-3 minutes to complete.
+Then start the migration process which should take about 1-3 minutes to complete.
 
 
